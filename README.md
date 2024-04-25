@@ -12,7 +12,7 @@ Este proyecto consta de la solución de dos aspectos importantes de un dataset:
  - 02-sep_val_eva_algor_ml. Análisis de ventas
  - 03-algortimos-no-superv. Zonificación de ventas
  - 04-probl-regresion. Análisis de ventas
- - Análisis de ventas. estimado d eventas
+ - 05-redes-neuro. Estimado de ventas
  
 # Observaciones
 
