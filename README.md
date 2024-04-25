@@ -16,7 +16,7 @@ Este proyecto consta de la solución de dos aspectos importantes de un dataset:
  
 # Observaciones
 
-El dataset con el que s etrabajó se descrgó en https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa
+El dataset con el que se trabajó se descrgó en https://www.kaggle.com/datasets/ytgangster/online-sales-in-usa
 
 Se tuvo que trabajar con el dataset original para poder hacer de las variables categóricas string que pudieran ser analizables convirtiendolas en numéricas. Para esto se tuvo que crear catálogos.
   
@@ -25,5 +25,7 @@ Se tuvo que trabajar con el dataset original para poder hacer de las variables c
   - Fundamentos de procesamiento de imagenes
 
  Quedaron pendientes por hacer muchas cosas.
+
+ Para obneter los datasets finales con los que se trabajó, solicítamelos por favor.
 
 
