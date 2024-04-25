@@ -1,0 +1,14 @@
+num,status
+1,canceled
+2,closed
+3,cod
+4,complete
+5,holded
+6,order_refunded
+7,paid
+8,payment_review
+9,pending
+10,pending_paypal
+11,processing
+12,received
+13,refund
